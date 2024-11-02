@@ -28,3 +28,11 @@ dotnet build
 cd CICDApp
 dotnet bin/Debug/net6.0/CICDApp.dll
 ```
+
+### Create CI Pipeline
+
+- create 
+<img src="/pictures/ci.png" title="ci pipeline"  width="900">
+
+- add trigger
+<img src="/pictures/ci1.png" title="ci pipeline"  width="900">
