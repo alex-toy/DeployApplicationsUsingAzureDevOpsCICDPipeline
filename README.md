@@ -36,3 +36,19 @@ dotnet bin/Debug/net6.0/CICDApp.dll
 
 - add trigger
 <img src="/pictures/ci1.png" title="ci pipeline"  width="900">
+```
+
+### Create Release Pipeline
+
+- create 
+<img src="/pictures/release.png" title="release pipeline"  width="900">
+
+- add staging slot
+<img src="/pictures/release1.png" title="release pipeline"  width="900">
+<img src="/pictures/release2.png" title="release pipeline"  width="900">
+
+- add a swap task
+<img src="/pictures/release3.png" title="release pipeline"  width="900">
+
+- final stages
+<img src="/pictures/release4.png" title="release pipeline"  width="900">
