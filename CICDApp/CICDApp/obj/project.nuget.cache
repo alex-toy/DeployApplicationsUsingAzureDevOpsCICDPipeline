@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSbpXt3ZG+Lk+XCl7ll+sGRQu8jp24cqP3IA6MOiVXw6I9x8B5K0WBhLZP4MkoGi0/k1zW+nMoJZt4UPEOCNtg==",
+  "success": true,
+  "projectFilePath": "C:\\source\\AzureDevops\\DeployApplicationsUsingAzureDevOpsCICDPipeline\\CICDApp\\CICDApp\\CICDApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}
